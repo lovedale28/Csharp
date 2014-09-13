@@ -1,0 +1,8 @@
+C:\Users\genesh\AppData\Local\Temporary Projects\DecisionPayRate\bin\Debug\DecisionPayRate.exe
+C:\Users\genesh\AppData\Local\Temporary Projects\DecisionPayRate\bin\Debug\DecisionPayRate.pdb
+C:\Users\genesh\AppData\Local\Temporary Projects\DecisionPayRate\obj\x86\Debug\DecisionPayRate.exe
+C:\Users\genesh\AppData\Local\Temporary Projects\DecisionPayRate\obj\x86\Debug\DecisionPayRate.pdb
+C:\Vinu\C# intermediate\DecisionPayRate\DecisionPayRate\obj\x86\Debug\DecisionPayRate.exe
+C:\Vinu\C# intermediate\DecisionPayRate\DecisionPayRate\obj\x86\Debug\DecisionPayRate.pdb
+C:\Vinu\C# intermediate\DecisionPayRate\DecisionPayRate\bin\Debug\DecisionPayRate.exe
+C:\Vinu\C# intermediate\DecisionPayRate\DecisionPayRate\bin\Debug\DecisionPayRate.pdb
